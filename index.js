@@ -57,13 +57,6 @@ const promptUser = () => {
     ]);
 };
 
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {
-//     fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) =>
-//         err ? console.log(err) : console.log('Success!')
-//     );
-// }
-
 
 // Create a function to initialize app
 const init = async() => {
@@ -73,7 +66,7 @@ const init = async() => {
 
         const generateReadMe = generateMarkdown(data);
 
-        await writeFileAsync('README.md', generateReadMe);
+        await writeFileAsync('./new-ReadMe/README.md', generateReadMe);
 
         console.log('Successfully wrote to README.md ✅');
     } catch (err) {
