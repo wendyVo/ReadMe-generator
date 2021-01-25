@@ -1,5 +1,5 @@
 # README generator
-    <br/>
+    
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Table of Contents
@@ -39,7 +39,7 @@ No test included
 
 ## Links to the GitHub Repositories:
 
--The URL of the GitHub repository: https://github.com/wendyVo/ReadMe-generator.git
+The URL of the GitHub repository: https://github.com/wendyVo/ReadMe-generator.git
 
 ## Questions
 
