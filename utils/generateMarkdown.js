@@ -53,7 +53,7 @@ ${data.test}
 
 ## Questions
 
-Please direct contact me with any questions: <br/>
+Please contact me should you have any questions: <br/>
 :email:   Email: ${data.email} <br/>
 :octocat: GitHub:  [${data.gitHub}](https://github.com/${data.gitHub})
 
