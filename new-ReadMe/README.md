@@ -1,6 +1,6 @@
 # README generator
     <br/>
-  Apache License 2.0
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Table of Contents
 - [Description](#description)
@@ -12,19 +12,19 @@
 - [Questions](#questions)
 
 ## Description
-This application enables the user to quickly generate a professional README files
+This application enables the user to quickly generate a professional README files by prompting some questions.
 
 ## Installation
 npm install inquirer
 
 ## Usage
-Run the application with CLI command and follow the prompts
+Run the application with CLI command "node index.js" and follow the prompts
 
 ## License
 
-Apache License 2.0
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 <br/>
-This application is covered under Apache License 2.0 license. 
+This application is covered under [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license. 
 
 ## Contributing
 Contributors: Wendy Uyen Vo. <br/>
